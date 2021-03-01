@@ -4,14 +4,14 @@ Playing with mlflow and testing makefile venv management capabilities.
 
 ## Usage:
 
-*To create:*
+*To create example mlflow logs:*
 
 ```
 make all
 ```
 
-*To destroy:*
+*To destroy files created in the process:*
 
 ```
-make destroy
+make cleanup
 ```
